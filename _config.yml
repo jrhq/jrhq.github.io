@@ -5,9 +5,9 @@ header-img: img/post-bg-miui6.jpg
 email: 1701208228@qq.com
 description: "糖纸是一个分享优惠的博客, 实时推送优质的网购优惠信息, 内容涉及3C家电、家居生活、时尚运动、海淘等多个领域, 网购就上今日好券, 让您更省钱！"
 keyword: "好券, 优惠, 折扣"
-url: "https://papersweet.github.io"          # your host, for absolute URL
+url: "https://tangzhi.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/jrhq/jrhq.github.io.git" # you code repository
+github_repo: "https://github.com/tangzhi/tangzhi.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -96,6 +96,6 @@ service-worker: true
 friends: [
     {
         title: "今日好券",
-        href: "https://jrhq.github.io"
+        href: "https://tangzhi.github.io"
     }
 ]
