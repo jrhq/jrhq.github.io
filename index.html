@@ -33,7 +33,7 @@ description: "实时同步全网折扣，每天9点上新"
         {% endif %}
     </a>
     <p class="post-meta">
-        {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} {{ post.date | date: "%Y-%m-%d" }}
+        {{ post.date | date: "%Y-%m-%d" }} {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %}
     </p>
 </div>
 <hr>
