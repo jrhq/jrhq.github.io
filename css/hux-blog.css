@@ -563,7 +563,7 @@ pre code {
   }
 }
 .intro-header .post-heading h1 {
-  font-size: 30px;
+  font-size: 20px;
   margin-bottom: 24px;
 }
 .intro-header .post-heading .subheading,
@@ -578,7 +578,7 @@ pre code {
      */
   font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", "Arial", "PingFang SC", "Hiragino Sans GB", "STHeiti", "Microsoft YaHei", "Microsoft JhengHei", "Source Han Sans SC", "Noto Sans CJK SC", "Source Han Sans CN", "Noto Sans SC", "Source Han Sans TC", "Noto Sans CJK TC", "WenQuanYi Micro Hei", SimSun, sans-serif;
   line-height: 1.7;
-  font-size: 17px;
+  font-size: 18px;
   line-height: 1.4;
   font-weight: normal;
   margin: 10px 0 30px;
@@ -586,7 +586,7 @@ pre code {
 }
 .intro-header .post-heading .meta {
   font-weight: 300;
-  font-size: 18px;
+  font-size: 14px;
 }
 .intro-header .post-heading .meta a {
   color: white;
