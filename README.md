@@ -1,4 +1,4 @@
-欢迎来到"糖纸"(Sugarpaper)项目！
+欢迎来到"糖纸"(SugarPaper)项目！
 
 ### 致谢
 
